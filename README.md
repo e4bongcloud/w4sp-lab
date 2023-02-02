@@ -20,6 +20,3 @@ git clone https://github.com/slowdodo/w4sp-lab.git
 ``` bash
 sudo python ./w4sp-lab/w4sp_webapp.py 
 ```
-
-
-Please note that this lab may take a long time to set up, as it involves downloading multiple images. This is not due to any errors. If you have successfully set up the lab as described above, congratulations and happy learning!
